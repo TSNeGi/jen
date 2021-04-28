@@ -9,7 +9,7 @@ public class SpringController {
 	@RequestMapping("/")  
 	public String welcome()   
 	{  
-	String print="Successfully build pipeline in Jenkins. \n Its AWS with jenkins."; 
+	String print="Successfully build pipeline in Jenkins. \n Its AWS with jenkins.  After many errors."; 
 	return print;
 	}  
 }
